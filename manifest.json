@@ -1,0 +1,20 @@
+{
+  "dataVersion": "2026.06.001",
+  "lastUpdated": "2026-06-21T14:00:00Z",
+  "files": {
+    "roadmap_Guangzhou": { "version": 1 },
+    "roadmap_Shenzhen": { "version": 1 },
+    "roadmap_Zhengzhou": { "version": 1 },
+    "roadmap_Luoyang": { "version": 1 },
+    "roadmap_Jinan": { "version": 1 },
+    "roadmap_Qingdao": { "version": 1 },
+    "roadmap_Nanjing": { "version": 1 },
+    "roadmap_Suzhou": { "version": 1 },
+    "meta_Guangdong": { "version": 1 },
+    "meta_Henan": { "version": 1 },
+    "meta_Shandong": { "version": 1 },
+    "meta_Jiangsu": { "version": 1 },
+    "quiz": { "version": 1 },
+    "cities": { "version": 1 }
+  }
+}

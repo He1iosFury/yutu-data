@@ -1,0 +1,18 @@
+{
+  "Guangdong": [
+    { "key": "Guangzhou", "name": "广州市 (大湾区枢纽)" },
+    { "key": "Shenzhen", "name": "深圳市 (科创前沿)" }
+  ],
+  "Henan": [
+    { "key": "Zhengzhou", "name": "郑州市 (中原卷王核心)" },
+    { "key": "Luoyang", "name": "洛阳市 (老牌工业重镇)" }
+  ],
+  "Shandong": [
+    { "key": "Jinan", "name": "济南市 (齐鲁教育重地)" },
+    { "key": "Qingdao", "name": "青岛市 (沿海双轨示范)" }
+  ],
+  "Jiangsu": [
+    { "key": "Nanjing", "name": "南京市 (施教区修罗场)" },
+    { "key": "Suzhou", "name": "苏州市 (高端双语高地)" }
+  ]
+}
