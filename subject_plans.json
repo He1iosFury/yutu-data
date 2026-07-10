@@ -1,0 +1,4298 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "stage": "age3_4",
+      "expectation": "interest",
+      "summary": "3-4岁（幼儿园小班）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "听读绘本",
+              "description": "能安静听完短绘本，对图画与故事产生兴趣",
+              "stars": 2
+            },
+            {
+              "dimension": "口语表达",
+              "description": "用简单短句表达需求，如'我要喝水'",
+              "stars": 2
+            },
+            {
+              "dimension": "生活用语",
+              "description": "理解并遵守日常指令，如'把玩具放好'",
+              "stars": 2
+            }
+          ],
+          "focus": "在游戏与亲子互动中轻松感知语言，不追求识字与书写。",
+          "methods": [
+            "每天 15 分钟亲子共读，指图讲述",
+            "唱儿歌、做手指谣积累语感",
+            "鼓励孩子用完整短句说出口",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "《小熊宝宝》绘本系列",
+              "category": "绘本",
+              "note": "生活场景低幼图画书"
+            },
+            {
+              "name": "洪恩识字·启蒙版",
+              "category": "APP",
+              "note": "游戏化认物与语音输入"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "建立固定睡前阅读仪式",
+            "多用提问引导孩子开口表达"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "数数 1-10",
+              "description": "能按顺序念出 1-10，不必对应实物",
+              "stars": 2
+            },
+            {
+              "dimension": "形状配对",
+              "description": "认出圆、方、三角并正确配对",
+              "stars": 2
+            },
+            {
+              "dimension": "大小多少",
+              "description": "用'大/小''多/少'描述身边物体",
+              "stars": 2
+            }
+          ],
+          "focus": "在生活里感知数与形，重点是兴趣而非计算。",
+          "methods": [
+            "上下楼梯时随口数数",
+            "用积木做形状分类游戏",
+            "比较两堆零食的多少",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "形状配对积木",
+              "category": "教具",
+              "note": "认形状练配对"
+            },
+            {
+              "name": "《好饿的毛毛虫》",
+              "category": "绘本",
+              "note": "数数与星期概念"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "日常随机点数熟悉物品",
+            "玩'找形状'家庭游戏"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "磨耳朵",
+              "description": "愿意听英文儿歌，不抗拒外语声音",
+              "stars": 2
+            },
+            {
+              "dimension": "听懂指令",
+              "description": "能执行 Stand up / Sit down 等简单指令",
+              "stars": 2
+            },
+            {
+              "dimension": "简单词汇",
+              "description": "说出 apple、cat 等少量单词",
+              "stars": 2
+            }
+          ],
+          "focus": "抓住语音敏感期，大量可理解输入，不要求输出。",
+          "methods": [
+            "每天 20 分钟英文儿歌熏听",
+            "看原版低幼动画并模仿",
+            "用单词卡片做指认游戏",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "Super Simple Songs",
+              "category": "音频",
+              "note": "经典启蒙儿歌合集"
+            },
+            {
+              "name": "《Maisy》小鼠波波",
+              "category": "动画",
+              "note": "句式极简的入门动画"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "固定早晚各一次听力时间",
+            "鼓励孩子跟唱副歌部分"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age3_4",
+      "expectation": "standard",
+      "summary": "3-4岁（幼儿园小班）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "听读绘本",
+              "description": "能安静听完短绘本，对图画与故事产生兴趣",
+              "stars": 3
+            },
+            {
+              "dimension": "口语表达",
+              "description": "用简单短句表达需求，如'我要喝水'",
+              "stars": 3
+            },
+            {
+              "dimension": "生活用语",
+              "description": "理解并遵守日常指令，如'把玩具放好'",
+              "stars": 3
+            }
+          ],
+          "focus": "在游戏与亲子互动中轻松感知语言，不追求识字与书写。",
+          "methods": [
+            "每天 15 分钟亲子共读，指图讲述",
+            "唱儿歌、做手指谣积累语感",
+            "鼓励孩子用完整短句说出口",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "《小熊宝宝》绘本系列",
+              "category": "绘本",
+              "note": "生活场景低幼图画书"
+            },
+            {
+              "name": "洪恩识字·启蒙版",
+              "category": "APP",
+              "note": "游戏化认物与语音输入"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "建立固定睡前阅读仪式",
+            "多用提问引导孩子开口表达"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "数数 1-10",
+              "description": "能按顺序念出 1-10，不必对应实物",
+              "stars": 3
+            },
+            {
+              "dimension": "形状配对",
+              "description": "认出圆、方、三角并正确配对",
+              "stars": 3
+            },
+            {
+              "dimension": "大小多少",
+              "description": "用'大/小''多/少'描述身边物体",
+              "stars": 3
+            }
+          ],
+          "focus": "在生活里感知数与形，重点是兴趣而非计算。",
+          "methods": [
+            "上下楼梯时随口数数",
+            "用积木做形状分类游戏",
+            "比较两堆零食的多少",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "形状配对积木",
+              "category": "教具",
+              "note": "认形状练配对"
+            },
+            {
+              "name": "《好饿的毛毛虫》",
+              "category": "绘本",
+              "note": "数数与星期概念"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "日常随机点数熟悉物品",
+            "玩'找形状'家庭游戏"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "磨耳朵",
+              "description": "愿意听英文儿歌，不抗拒外语声音",
+              "stars": 3
+            },
+            {
+              "dimension": "听懂指令",
+              "description": "能执行 Stand up / Sit down 等简单指令",
+              "stars": 3
+            },
+            {
+              "dimension": "简单词汇",
+              "description": "说出 apple、cat 等少量单词",
+              "stars": 3
+            }
+          ],
+          "focus": "抓住语音敏感期，大量可理解输入，不要求输出。",
+          "methods": [
+            "每天 20 分钟英文儿歌熏听",
+            "看原版低幼动画并模仿",
+            "用单词卡片做指认游戏",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "Super Simple Songs",
+              "category": "音频",
+              "note": "经典启蒙儿歌合集"
+            },
+            {
+              "name": "《Maisy》小鼠波波",
+              "category": "动画",
+              "note": "句式极简的入门动画"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "固定早晚各一次听力时间",
+            "鼓励孩子跟唱副歌部分"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age3_4",
+      "expectation": "elite",
+      "summary": "3-4岁（幼儿园小班）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "听读绘本",
+              "description": "能安静听完短绘本，对图画与故事产生兴趣",
+              "stars": 4
+            },
+            {
+              "dimension": "口语表达",
+              "description": "用简单短句表达需求，如'我要喝水'",
+              "stars": 4
+            },
+            {
+              "dimension": "生活用语",
+              "description": "理解并遵守日常指令，如'把玩具放好'",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "在游戏与亲子互动中轻松感知语言，不追求识字与书写。",
+          "methods": [
+            "每天 15 分钟亲子共读，指图讲述",
+            "唱儿歌、做手指谣积累语感",
+            "鼓励孩子用完整短句说出口",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "《小熊宝宝》绘本系列",
+              "category": "绘本",
+              "note": "生活场景低幼图画书"
+            },
+            {
+              "name": "洪恩识字·启蒙版",
+              "category": "APP",
+              "note": "游戏化认物与语音输入"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "建立固定睡前阅读仪式",
+            "多用提问引导孩子开口表达"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "数数 1-10",
+              "description": "能按顺序念出 1-10，不必对应实物",
+              "stars": 4
+            },
+            {
+              "dimension": "形状配对",
+              "description": "认出圆、方、三角并正确配对",
+              "stars": 4
+            },
+            {
+              "dimension": "大小多少",
+              "description": "用'大/小''多/少'描述身边物体",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "在生活里感知数与形，重点是兴趣而非计算。",
+          "methods": [
+            "上下楼梯时随口数数",
+            "用积木做形状分类游戏",
+            "比较两堆零食的多少",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "形状配对积木",
+              "category": "教具",
+              "note": "认形状练配对"
+            },
+            {
+              "name": "《好饿的毛毛虫》",
+              "category": "绘本",
+              "note": "数数与星期概念"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "日常随机点数熟悉物品",
+            "玩'找形状'家庭游戏"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·幼儿园小班",
+          "abilities": [
+            {
+              "dimension": "磨耳朵",
+              "description": "愿意听英文儿歌，不抗拒外语声音",
+              "stars": 4
+            },
+            {
+              "dimension": "听懂指令",
+              "description": "能执行 Stand up / Sit down 等简单指令",
+              "stars": 4
+            },
+            {
+              "dimension": "简单词汇",
+              "description": "说出 apple、cat 等少量单词",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "抓住语音敏感期，大量可理解输入，不要求输出。",
+          "methods": [
+            "每天 20 分钟英文儿歌熏听",
+            "看原版低幼动画并模仿",
+            "用单词卡片做指认游戏",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "Super Simple Songs",
+              "category": "音频",
+              "note": "经典启蒙儿歌合集"
+            },
+            {
+              "name": "《Maisy》小鼠波波",
+              "category": "动画",
+              "note": "句式极简的入门动画"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "固定早晚各一次听力时间",
+            "鼓励孩子跟唱副歌部分"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age4_5",
+      "expectation": "interest",
+      "summary": "4-5岁（幼儿园中班）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "复述故事",
+              "description": "听完故事能说出主要人物和简单情节",
+              "stars": 2
+            },
+            {
+              "dimension": "认读常见字",
+              "description": "认识 50-100 个高频生活用字",
+              "stars": 2
+            },
+            {
+              "dimension": "完整表达",
+              "description": "围绕一件事说 3-5 句连贯的话",
+              "stars": 2
+            }
+          ],
+          "focus": "从'听'过渡到'说'与'认'，积累前阅读经验。",
+          "methods": [
+            "讲完故事请孩子复述",
+            "用识字卡在生活场景认字",
+            "玩'看图说话'描述单幅图",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "《猜猜我有多爱你》",
+              "category": "绘本",
+              "note": "情感与句式丰富"
+            },
+            {
+              "name": "悟空识字",
+              "category": "APP",
+              "note": "游戏化高频字学习"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每周精读一本绘本并复述",
+            "生活中随时指认路牌与包装字"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "10 以内点数",
+              "description": "能手口一致点数并说出总数",
+              "stars": 2
+            },
+            {
+              "dimension": "分类排序",
+              "description": "按颜色/大小/长短分类并排序",
+              "stars": 2
+            },
+            {
+              "dimension": "简单规律",
+              "description": "发现 ABAB 等简单排列规律",
+              "stars": 2
+            }
+          ],
+          "focus": "建立数感与逻辑雏形，用操作代替抽象。",
+          "methods": [
+            "用豆子、积木做点数练习",
+            "按特征给衣物/玩具分类",
+            "用串珠玩规律接龙",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "蒙氏数学教具",
+              "category": "教具",
+              "note": "系统化感官数学"
+            },
+            {
+              "name": "《数学帮帮忙》",
+              "category": "绘本",
+              "note": "故事化数学概念"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "购物时让孩子数商品件数",
+            "用积木搭出规律图案"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "跟唱儿歌",
+              "description": "能跟唱多首英文儿歌并做动作",
+              "stars": 2
+            },
+            {
+              "dimension": "看图说词",
+              "description": "看到图能说出对应英文单词",
+              "stars": 2
+            },
+            {
+              "dimension": "简单对话",
+              "description": "用 Hello / What's this? 做简短问答",
+              "stars": 2
+            }
+          ],
+          "focus": "从听到说，建立敢开口的自信心。",
+          "methods": [
+            "儿歌配合 TPR 动作跟做",
+            "图卡闪卡快速指认",
+            "角色扮演简单日常对话",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "清华幼儿英语",
+              "category": "音频",
+              "note": "国内园所常用儿歌"
+            },
+            {
+              "name": "Khan Kids",
+              "category": "APP",
+              "note": "游戏化启蒙综合App"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每天跟唱并做动作 10 分钟",
+            "用玩偶做简单对话演练"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age4_5",
+      "expectation": "standard",
+      "summary": "4-5岁（幼儿园中班）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "复述故事",
+              "description": "听完故事能说出主要人物和简单情节",
+              "stars": 3
+            },
+            {
+              "dimension": "认读常见字",
+              "description": "认识 50-100 个高频生活用字",
+              "stars": 3
+            },
+            {
+              "dimension": "完整表达",
+              "description": "围绕一件事说 3-5 句连贯的话",
+              "stars": 3
+            }
+          ],
+          "focus": "从'听'过渡到'说'与'认'，积累前阅读经验。",
+          "methods": [
+            "讲完故事请孩子复述",
+            "用识字卡在生活场景认字",
+            "玩'看图说话'描述单幅图",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "《猜猜我有多爱你》",
+              "category": "绘本",
+              "note": "情感与句式丰富"
+            },
+            {
+              "name": "悟空识字",
+              "category": "APP",
+              "note": "游戏化高频字学习"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每周精读一本绘本并复述",
+            "生活中随时指认路牌与包装字"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "10 以内点数",
+              "description": "能手口一致点数并说出总数",
+              "stars": 3
+            },
+            {
+              "dimension": "分类排序",
+              "description": "按颜色/大小/长短分类并排序",
+              "stars": 3
+            },
+            {
+              "dimension": "简单规律",
+              "description": "发现 ABAB 等简单排列规律",
+              "stars": 3
+            }
+          ],
+          "focus": "建立数感与逻辑雏形，用操作代替抽象。",
+          "methods": [
+            "用豆子、积木做点数练习",
+            "按特征给衣物/玩具分类",
+            "用串珠玩规律接龙",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "蒙氏数学教具",
+              "category": "教具",
+              "note": "系统化感官数学"
+            },
+            {
+              "name": "《数学帮帮忙》",
+              "category": "绘本",
+              "note": "故事化数学概念"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "购物时让孩子数商品件数",
+            "用积木搭出规律图案"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "跟唱儿歌",
+              "description": "能跟唱多首英文儿歌并做动作",
+              "stars": 3
+            },
+            {
+              "dimension": "看图说词",
+              "description": "看到图能说出对应英文单词",
+              "stars": 3
+            },
+            {
+              "dimension": "简单对话",
+              "description": "用 Hello / What's this? 做简短问答",
+              "stars": 3
+            }
+          ],
+          "focus": "从听到说，建立敢开口的自信心。",
+          "methods": [
+            "儿歌配合 TPR 动作跟做",
+            "图卡闪卡快速指认",
+            "角色扮演简单日常对话",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "清华幼儿英语",
+              "category": "音频",
+              "note": "国内园所常用儿歌"
+            },
+            {
+              "name": "Khan Kids",
+              "category": "APP",
+              "note": "游戏化启蒙综合App"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每天跟唱并做动作 10 分钟",
+            "用玩偶做简单对话演练"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age4_5",
+      "expectation": "elite",
+      "summary": "4-5岁（幼儿园中班）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "复述故事",
+              "description": "听完故事能说出主要人物和简单情节",
+              "stars": 4
+            },
+            {
+              "dimension": "认读常见字",
+              "description": "认识 50-100 个高频生活用字",
+              "stars": 4
+            },
+            {
+              "dimension": "完整表达",
+              "description": "围绕一件事说 3-5 句连贯的话",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "从'听'过渡到'说'与'认'，积累前阅读经验。",
+          "methods": [
+            "讲完故事请孩子复述",
+            "用识字卡在生活场景认字",
+            "玩'看图说话'描述单幅图",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "《猜猜我有多爱你》",
+              "category": "绘本",
+              "note": "情感与句式丰富"
+            },
+            {
+              "name": "悟空识字",
+              "category": "APP",
+              "note": "游戏化高频字学习"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每周精读一本绘本并复述",
+            "生活中随时指认路牌与包装字"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "10 以内点数",
+              "description": "能手口一致点数并说出总数",
+              "stars": 4
+            },
+            {
+              "dimension": "分类排序",
+              "description": "按颜色/大小/长短分类并排序",
+              "stars": 4
+            },
+            {
+              "dimension": "简单规律",
+              "description": "发现 ABAB 等简单排列规律",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "建立数感与逻辑雏形，用操作代替抽象。",
+          "methods": [
+            "用豆子、积木做点数练习",
+            "按特征给衣物/玩具分类",
+            "用串珠玩规律接龙",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "蒙氏数学教具",
+              "category": "教具",
+              "note": "系统化感官数学"
+            },
+            {
+              "name": "《数学帮帮忙》",
+              "category": "绘本",
+              "note": "故事化数学概念"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "购物时让孩子数商品件数",
+            "用积木搭出规律图案"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·幼儿园中班",
+          "abilities": [
+            {
+              "dimension": "跟唱儿歌",
+              "description": "能跟唱多首英文儿歌并做动作",
+              "stars": 4
+            },
+            {
+              "dimension": "看图说词",
+              "description": "看到图能说出对应英文单词",
+              "stars": 4
+            },
+            {
+              "dimension": "简单对话",
+              "description": "用 Hello / What's this? 做简短问答",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "从听到说，建立敢开口的自信心。",
+          "methods": [
+            "儿歌配合 TPR 动作跟做",
+            "图卡闪卡快速指认",
+            "角色扮演简单日常对话",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "清华幼儿英语",
+              "category": "音频",
+              "note": "国内园所常用儿歌"
+            },
+            {
+              "name": "Khan Kids",
+              "category": "APP",
+              "note": "游戏化启蒙综合App"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每天跟唱并做动作 10 分钟",
+            "用玩偶做简单对话演练"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age5_6",
+      "expectation": "interest",
+      "summary": "5-6岁（幼儿园大班）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "拼音基础",
+              "description": "认识声母韵母，会拼读简单音节",
+              "stars": 2
+            },
+            {
+              "dimension": "自主阅读",
+              "description": "借助拼音读懂图画书主要文字",
+              "stars": 2
+            },
+            {
+              "dimension": "前书写",
+              "description": "正确握笔，能描红常用笔画与简单字",
+              "stars": 2
+            }
+          ],
+          "focus": "幼小衔接核心：拼音、识字、前书写三线并进。",
+          "methods": [
+            "用拼音卡片做拼读游戏",
+            "每日亲子共读转向孩子领读",
+            "描红本练握笔与笔顺",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "《一阅而起》汉语分级",
+              "category": "分级读物",
+              "note": "拼音桥梁书"
+            },
+            {
+              "name": "摩比爱拼音",
+              "category": "教辅",
+              "note": "系统拼音启蒙"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每天拼读 10 分钟巩固拼音",
+            "入学前完成常用 300 字认读"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "10 以内加减",
+              "description": "理解加减含义，熟练 10 内计算",
+              "stars": 2
+            },
+            {
+              "dimension": "认识钟表",
+              "description": "认读整点与半点",
+              "stars": 2
+            },
+            {
+              "dimension": "空间方位",
+              "description": "分清前后左右、上下里外",
+              "stars": 2
+            }
+          ],
+          "focus": "衔接一年级：数与运算、时间、方位全面铺垫。",
+          "methods": [
+            "用实物演示加减含义",
+            "画钟面认整点半点",
+            "用身体游戏辨方位",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "摩比爱数学·幼小衔接",
+              "category": "教辅",
+              "note": "思维与计算启蒙"
+            },
+            {
+              "name": "逻辑狗",
+              "category": "教具",
+              "note": "图形与逻辑训练"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "生活中随口出 10 内口算",
+            "每天认一次家里时钟"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "自然拼读启蒙",
+              "description": "认识字母音，拼出 CVC 短词",
+              "stars": 2
+            },
+            {
+              "dimension": "简短对话",
+              "description": "用 I can... / I like... 表达",
+              "stars": 2
+            },
+            {
+              "dimension": "看动画理解",
+              "description": "看懂简单原版动画片大意",
+              "stars": 2
+            }
+          ],
+          "focus": "拼读启蒙 + 敢说，为小学外语打底。",
+          "methods": [
+            "学字母音并做拼读卡片",
+            "每日一句主题口语打卡",
+            "看原版动画后复述情节",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 1",
+              "category": "分级读物",
+              "note": "家庭校园主题入门"
+            },
+            {
+              "name": "ABC Reading",
+              "category": "APP",
+              "note": "自然拼读动画课"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每天拼读 5 个 CVC 词",
+            "用英文说一句今日天气"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age5_6",
+      "expectation": "standard",
+      "summary": "5-6岁（幼儿园大班）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "拼音基础",
+              "description": "认识声母韵母，会拼读简单音节",
+              "stars": 3
+            },
+            {
+              "dimension": "自主阅读",
+              "description": "借助拼音读懂图画书主要文字",
+              "stars": 3
+            },
+            {
+              "dimension": "前书写",
+              "description": "正确握笔，能描红常用笔画与简单字",
+              "stars": 3
+            }
+          ],
+          "focus": "幼小衔接核心：拼音、识字、前书写三线并进。",
+          "methods": [
+            "用拼音卡片做拼读游戏",
+            "每日亲子共读转向孩子领读",
+            "描红本练握笔与笔顺",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "《一阅而起》汉语分级",
+              "category": "分级读物",
+              "note": "拼音桥梁书"
+            },
+            {
+              "name": "摩比爱拼音",
+              "category": "教辅",
+              "note": "系统拼音启蒙"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每天拼读 10 分钟巩固拼音",
+            "入学前完成常用 300 字认读"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "10 以内加减",
+              "description": "理解加减含义，熟练 10 内计算",
+              "stars": 3
+            },
+            {
+              "dimension": "认识钟表",
+              "description": "认读整点与半点",
+              "stars": 3
+            },
+            {
+              "dimension": "空间方位",
+              "description": "分清前后左右、上下里外",
+              "stars": 3
+            }
+          ],
+          "focus": "衔接一年级：数与运算、时间、方位全面铺垫。",
+          "methods": [
+            "用实物演示加减含义",
+            "画钟面认整点半点",
+            "用身体游戏辨方位",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "摩比爱数学·幼小衔接",
+              "category": "教辅",
+              "note": "思维与计算启蒙"
+            },
+            {
+              "name": "逻辑狗",
+              "category": "教具",
+              "note": "图形与逻辑训练"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "生活中随口出 10 内口算",
+            "每天认一次家里时钟"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "自然拼读启蒙",
+              "description": "认识字母音，拼出 CVC 短词",
+              "stars": 3
+            },
+            {
+              "dimension": "简短对话",
+              "description": "用 I can... / I like... 表达",
+              "stars": 3
+            },
+            {
+              "dimension": "看动画理解",
+              "description": "看懂简单原版动画片大意",
+              "stars": 3
+            }
+          ],
+          "focus": "拼读启蒙 + 敢说，为小学外语打底。",
+          "methods": [
+            "学字母音并做拼读卡片",
+            "每日一句主题口语打卡",
+            "看原版动画后复述情节",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 1",
+              "category": "分级读物",
+              "note": "家庭校园主题入门"
+            },
+            {
+              "name": "ABC Reading",
+              "category": "APP",
+              "note": "自然拼读动画课"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每天拼读 5 个 CVC 词",
+            "用英文说一句今日天气"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age5_6",
+      "expectation": "elite",
+      "summary": "5-6岁（幼儿园大班）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "拼音基础",
+              "description": "认识声母韵母，会拼读简单音节",
+              "stars": 4
+            },
+            {
+              "dimension": "自主阅读",
+              "description": "借助拼音读懂图画书主要文字",
+              "stars": 4
+            },
+            {
+              "dimension": "前书写",
+              "description": "正确握笔，能描红常用笔画与简单字",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "幼小衔接核心：拼音、识字、前书写三线并进。",
+          "methods": [
+            "用拼音卡片做拼读游戏",
+            "每日亲子共读转向孩子领读",
+            "描红本练握笔与笔顺",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "《一阅而起》汉语分级",
+              "category": "分级读物",
+              "note": "拼音桥梁书"
+            },
+            {
+              "name": "摩比爱拼音",
+              "category": "教辅",
+              "note": "系统拼音启蒙"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每天拼读 10 分钟巩固拼音",
+            "入学前完成常用 300 字认读"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "10 以内加减",
+              "description": "理解加减含义，熟练 10 内计算",
+              "stars": 4
+            },
+            {
+              "dimension": "认识钟表",
+              "description": "认读整点与半点",
+              "stars": 4
+            },
+            {
+              "dimension": "空间方位",
+              "description": "分清前后左右、上下里外",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "衔接一年级：数与运算、时间、方位全面铺垫。",
+          "methods": [
+            "用实物演示加减含义",
+            "画钟面认整点半点",
+            "用身体游戏辨方位",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "摩比爱数学·幼小衔接",
+              "category": "教辅",
+              "note": "思维与计算启蒙"
+            },
+            {
+              "name": "逻辑狗",
+              "category": "教具",
+              "note": "图形与逻辑训练"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "生活中随口出 10 内口算",
+            "每天认一次家里时钟"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·幼儿园大班",
+          "abilities": [
+            {
+              "dimension": "自然拼读启蒙",
+              "description": "认识字母音，拼出 CVC 短词",
+              "stars": 4
+            },
+            {
+              "dimension": "简短对话",
+              "description": "用 I can... / I like... 表达",
+              "stars": 4
+            },
+            {
+              "dimension": "看动画理解",
+              "description": "看懂简单原版动画片大意",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "拼读启蒙 + 敢说，为小学外语打底。",
+          "methods": [
+            "学字母音并做拼读卡片",
+            "每日一句主题口语打卡",
+            "看原版动画后复述情节",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 1",
+              "category": "分级读物",
+              "note": "家庭校园主题入门"
+            },
+            {
+              "name": "ABC Reading",
+              "category": "APP",
+              "note": "自然拼读动画课"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每天拼读 5 个 CVC 词",
+            "用英文说一句今日天气"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age6_7",
+      "expectation": "interest",
+      "summary": "6-7岁（一年级）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·一年级",
+          "abilities": [
+            {
+              "dimension": "拼音熟练",
+              "description": "能准确拼读并借助拼音独立阅读",
+              "stars": 2
+            },
+            {
+              "dimension": "课内识字",
+              "description": "掌握一年级要求的常用汉字",
+              "stars": 2
+            },
+            {
+              "dimension": "通顺朗读",
+              "description": "朗读课文正确、流利、有感情",
+              "stars": 2
+            }
+          ],
+          "focus": "一年级重心：拼音过关、大量识字、培养朗读习惯。",
+          "methods": [
+            "课前预习圈生字，课后听写巩固",
+            "每天 20 分钟大声朗读",
+            "用识字表做闯关游戏",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "一年级上册语文教材",
+              "category": "教材",
+              "note": "以课内进度为准"
+            },
+            {
+              "name": "《日有所诵》",
+              "category": "诵读",
+              "note": "低段晨读材料"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每课生字过关再学新课",
+            "坚持每日朗读不中断"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·一年级",
+          "abilities": [
+            {
+              "dimension": "20 内进退位",
+              "description": "熟练 20 以内进位加法与退位减法",
+              "stars": 2
+            },
+            {
+              "dimension": "认识人民币",
+              "description": "认识元角分并简单换算",
+              "stars": 2
+            },
+            {
+              "dimension": "解决问题",
+              "description": "读懂图文应用题并列出算式",
+              "stars": 2
+            }
+          ],
+          "focus": "计算地基 + 应用题入门，重理解轻刷题。",
+          "methods": [
+            "用小棒演示进退位过程",
+            "超市实战认价格算找零",
+            "读题圈关键词再列式",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "一年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "口算大通关",
+              "category": "练习册",
+              "note": "每日 5 分钟口算"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每日口算保持手感",
+            "应用题先说思路再动笔"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·一年级",
+          "abilities": [
+            {
+              "dimension": "字母发音",
+              "description": "掌握 26 字母名与字母音",
+              "stars": 2
+            },
+            {
+              "dimension": "课本对话",
+              "description": "熟读并表演课本情景对话",
+              "stars": 2
+            },
+            {
+              "dimension": "跟读模仿",
+              "description": "跟读录音纠正发音语调",
+              "stars": 2
+            }
+          ],
+          "focus": "一年级外语重听说模仿，建立标准语音。",
+          "methods": [
+            "每天跟读录音 15 分钟",
+            "角色扮演课本对话",
+            "用点读笔自主听读",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "外研/人教一年级教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": " Raz-Kids AA",
+              "category": "分级读物",
+              "note": "跟读配音入门"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每课对话能脱稿表演",
+            "跟读时录音自查发音"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age6_7",
+      "expectation": "standard",
+      "summary": "6-7岁（一年级）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·一年级",
+          "abilities": [
+            {
+              "dimension": "拼音熟练",
+              "description": "能准确拼读并借助拼音独立阅读",
+              "stars": 3
+            },
+            {
+              "dimension": "课内识字",
+              "description": "掌握一年级要求的常用汉字",
+              "stars": 3
+            },
+            {
+              "dimension": "通顺朗读",
+              "description": "朗读课文正确、流利、有感情",
+              "stars": 3
+            }
+          ],
+          "focus": "一年级重心：拼音过关、大量识字、培养朗读习惯。",
+          "methods": [
+            "课前预习圈生字，课后听写巩固",
+            "每天 20 分钟大声朗读",
+            "用识字表做闯关游戏",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "一年级上册语文教材",
+              "category": "教材",
+              "note": "以课内进度为准"
+            },
+            {
+              "name": "《日有所诵》",
+              "category": "诵读",
+              "note": "低段晨读材料"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每课生字过关再学新课",
+            "坚持每日朗读不中断"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·一年级",
+          "abilities": [
+            {
+              "dimension": "20 内进退位",
+              "description": "熟练 20 以内进位加法与退位减法",
+              "stars": 3
+            },
+            {
+              "dimension": "认识人民币",
+              "description": "认识元角分并简单换算",
+              "stars": 3
+            },
+            {
+              "dimension": "解决问题",
+              "description": "读懂图文应用题并列出算式",
+              "stars": 3
+            }
+          ],
+          "focus": "计算地基 + 应用题入门，重理解轻刷题。",
+          "methods": [
+            "用小棒演示进退位过程",
+            "超市实战认价格算找零",
+            "读题圈关键词再列式",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "一年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "口算大通关",
+              "category": "练习册",
+              "note": "每日 5 分钟口算"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每日口算保持手感",
+            "应用题先说思路再动笔"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·一年级",
+          "abilities": [
+            {
+              "dimension": "字母发音",
+              "description": "掌握 26 字母名与字母音",
+              "stars": 3
+            },
+            {
+              "dimension": "课本对话",
+              "description": "熟读并表演课本情景对话",
+              "stars": 3
+            },
+            {
+              "dimension": "跟读模仿",
+              "description": "跟读录音纠正发音语调",
+              "stars": 3
+            }
+          ],
+          "focus": "一年级外语重听说模仿，建立标准语音。",
+          "methods": [
+            "每天跟读录音 15 分钟",
+            "角色扮演课本对话",
+            "用点读笔自主听读",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "外研/人教一年级教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": " Raz-Kids AA",
+              "category": "分级读物",
+              "note": "跟读配音入门"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每课对话能脱稿表演",
+            "跟读时录音自查发音"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age6_7",
+      "expectation": "elite",
+      "summary": "6-7岁（一年级）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·一年级",
+          "abilities": [
+            {
+              "dimension": "拼音熟练",
+              "description": "能准确拼读并借助拼音独立阅读",
+              "stars": 4
+            },
+            {
+              "dimension": "课内识字",
+              "description": "掌握一年级要求的常用汉字",
+              "stars": 4
+            },
+            {
+              "dimension": "通顺朗读",
+              "description": "朗读课文正确、流利、有感情",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "一年级重心：拼音过关、大量识字、培养朗读习惯。",
+          "methods": [
+            "课前预习圈生字，课后听写巩固",
+            "每天 20 分钟大声朗读",
+            "用识字表做闯关游戏",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "一年级上册语文教材",
+              "category": "教材",
+              "note": "以课内进度为准"
+            },
+            {
+              "name": "《日有所诵》",
+              "category": "诵读",
+              "note": "低段晨读材料"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每课生字过关再学新课",
+            "坚持每日朗读不中断"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·一年级",
+          "abilities": [
+            {
+              "dimension": "20 内进退位",
+              "description": "熟练 20 以内进位加法与退位减法",
+              "stars": 4
+            },
+            {
+              "dimension": "认识人民币",
+              "description": "认识元角分并简单换算",
+              "stars": 4
+            },
+            {
+              "dimension": "解决问题",
+              "description": "读懂图文应用题并列出算式",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "计算地基 + 应用题入门，重理解轻刷题。",
+          "methods": [
+            "用小棒演示进退位过程",
+            "超市实战认价格算找零",
+            "读题圈关键词再列式",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "一年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "口算大通关",
+              "category": "练习册",
+              "note": "每日 5 分钟口算"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每日口算保持手感",
+            "应用题先说思路再动笔"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·一年级",
+          "abilities": [
+            {
+              "dimension": "字母发音",
+              "description": "掌握 26 字母名与字母音",
+              "stars": 4
+            },
+            {
+              "dimension": "课本对话",
+              "description": "熟读并表演课本情景对话",
+              "stars": 4
+            },
+            {
+              "dimension": "跟读模仿",
+              "description": "跟读录音纠正发音语调",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "一年级外语重听说模仿，建立标准语音。",
+          "methods": [
+            "每天跟读录音 15 分钟",
+            "角色扮演课本对话",
+            "用点读笔自主听读",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "外研/人教一年级教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": " Raz-Kids AA",
+              "category": "分级读物",
+              "note": "跟读配音入门"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每课对话能脱稿表演",
+            "跟读时录音自查发音"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age7_8",
+      "expectation": "interest",
+      "summary": "7-8岁（二年级）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·二年级",
+          "abilities": [
+            {
+              "dimension": "段落写话",
+              "description": "围绕图画或话题写 3-5 句通顺话",
+              "stars": 2
+            },
+            {
+              "dimension": "默读理解",
+              "description": "默读短文能说出主要内容",
+              "stars": 2
+            },
+            {
+              "dimension": "词语积累",
+              "description": "积累并运用课内好词好句",
+              "stars": 2
+            }
+          ],
+          "focus": "二年级从'写话'起步，积累语言材料。",
+          "methods": [
+            "看图写话先说后写",
+            "建词语积累本每周复盘",
+            "亲子共读后交流感受",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "《看图写话就三步》",
+              "category": "教辅",
+              "note": "写话入门方法"
+            },
+            {
+              "name": "《小学生必背古诗词》",
+              "category": "诵读",
+              "note": "低段古诗积累"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每周完成 2 篇看图写话",
+            "摘抄好词好句并造句"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·二年级",
+          "abilities": [
+            {
+              "dimension": "表内乘除",
+              "description": "熟练九九乘法与对应除法",
+              "stars": 2
+            },
+            {
+              "dimension": "长度单位",
+              "description": "认识米厘米，会估测与换算",
+              "stars": 2
+            },
+            {
+              "dimension": "两步应用",
+              "description": "解决含两步运算的实际问题",
+              "stars": 2
+            }
+          ],
+          "focus": "乘法体系 + 量感建立，应用题上难度。",
+          "methods": [
+            "乘法口诀每天抽背",
+            "用尺子量身边物体练估测",
+            "画线段图辅助理解题意",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "二年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《小学奥数举一反三》入门",
+              "category": "教辅",
+              "note": "思维拓展基础"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "口诀脱口而出再提速",
+            "应用题坚持画图标数量"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·二年级",
+          "abilities": [
+            {
+              "dimension": "拼读规则",
+              "description": "掌握元辅音组合拼读规则",
+              "stars": 2
+            },
+            {
+              "dimension": "简单阅读",
+              "description": "读懂配图短故事并答题",
+              "stars": 2
+            },
+            {
+              "dimension": "口语问答",
+              "description": "就熟悉话题做简短问答",
+              "stars": 2
+            }
+          ],
+          "focus": "二年级从听说转向简单阅读。",
+          "methods": [
+            "用拼读规则自主读词",
+            "读分级读物后做理解题",
+            "每周一次主题口语打卡",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 2-3",
+              "category": "分级读物",
+              "note": "情节递进"
+            },
+            {
+              "name": "《丽声拼读》",
+              "category": "教辅",
+              "note": "系统拼读巩固"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每日自主阅读 1 本分级",
+            "口语打卡录音频自查"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age7_8",
+      "expectation": "standard",
+      "summary": "7-8岁（二年级）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·二年级",
+          "abilities": [
+            {
+              "dimension": "段落写话",
+              "description": "围绕图画或话题写 3-5 句通顺话",
+              "stars": 3
+            },
+            {
+              "dimension": "默读理解",
+              "description": "默读短文能说出主要内容",
+              "stars": 3
+            },
+            {
+              "dimension": "词语积累",
+              "description": "积累并运用课内好词好句",
+              "stars": 3
+            }
+          ],
+          "focus": "二年级从'写话'起步，积累语言材料。",
+          "methods": [
+            "看图写话先说后写",
+            "建词语积累本每周复盘",
+            "亲子共读后交流感受",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "《看图写话就三步》",
+              "category": "教辅",
+              "note": "写话入门方法"
+            },
+            {
+              "name": "《小学生必背古诗词》",
+              "category": "诵读",
+              "note": "低段古诗积累"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每周完成 2 篇看图写话",
+            "摘抄好词好句并造句"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·二年级",
+          "abilities": [
+            {
+              "dimension": "表内乘除",
+              "description": "熟练九九乘法与对应除法",
+              "stars": 3
+            },
+            {
+              "dimension": "长度单位",
+              "description": "认识米厘米，会估测与换算",
+              "stars": 3
+            },
+            {
+              "dimension": "两步应用",
+              "description": "解决含两步运算的实际问题",
+              "stars": 3
+            }
+          ],
+          "focus": "乘法体系 + 量感建立，应用题上难度。",
+          "methods": [
+            "乘法口诀每天抽背",
+            "用尺子量身边物体练估测",
+            "画线段图辅助理解题意",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "二年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《小学奥数举一反三》入门",
+              "category": "教辅",
+              "note": "思维拓展基础"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "口诀脱口而出再提速",
+            "应用题坚持画图标数量"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·二年级",
+          "abilities": [
+            {
+              "dimension": "拼读规则",
+              "description": "掌握元辅音组合拼读规则",
+              "stars": 3
+            },
+            {
+              "dimension": "简单阅读",
+              "description": "读懂配图短故事并答题",
+              "stars": 3
+            },
+            {
+              "dimension": "口语问答",
+              "description": "就熟悉话题做简短问答",
+              "stars": 3
+            }
+          ],
+          "focus": "二年级从听说转向简单阅读。",
+          "methods": [
+            "用拼读规则自主读词",
+            "读分级读物后做理解题",
+            "每周一次主题口语打卡",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 2-3",
+              "category": "分级读物",
+              "note": "情节递进"
+            },
+            {
+              "name": "《丽声拼读》",
+              "category": "教辅",
+              "note": "系统拼读巩固"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每日自主阅读 1 本分级",
+            "口语打卡录音频自查"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age7_8",
+      "expectation": "elite",
+      "summary": "7-8岁（二年级）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·二年级",
+          "abilities": [
+            {
+              "dimension": "段落写话",
+              "description": "围绕图画或话题写 3-5 句通顺话",
+              "stars": 4
+            },
+            {
+              "dimension": "默读理解",
+              "description": "默读短文能说出主要内容",
+              "stars": 4
+            },
+            {
+              "dimension": "词语积累",
+              "description": "积累并运用课内好词好句",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "二年级从'写话'起步，积累语言材料。",
+          "methods": [
+            "看图写话先说后写",
+            "建词语积累本每周复盘",
+            "亲子共读后交流感受",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "《看图写话就三步》",
+              "category": "教辅",
+              "note": "写话入门方法"
+            },
+            {
+              "name": "《小学生必背古诗词》",
+              "category": "诵读",
+              "note": "低段古诗积累"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每周完成 2 篇看图写话",
+            "摘抄好词好句并造句"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·二年级",
+          "abilities": [
+            {
+              "dimension": "表内乘除",
+              "description": "熟练九九乘法与对应除法",
+              "stars": 4
+            },
+            {
+              "dimension": "长度单位",
+              "description": "认识米厘米，会估测与换算",
+              "stars": 4
+            },
+            {
+              "dimension": "两步应用",
+              "description": "解决含两步运算的实际问题",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "乘法体系 + 量感建立，应用题上难度。",
+          "methods": [
+            "乘法口诀每天抽背",
+            "用尺子量身边物体练估测",
+            "画线段图辅助理解题意",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "二年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《小学奥数举一反三》入门",
+              "category": "教辅",
+              "note": "思维拓展基础"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "口诀脱口而出再提速",
+            "应用题坚持画图标数量"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·二年级",
+          "abilities": [
+            {
+              "dimension": "拼读规则",
+              "description": "掌握元辅音组合拼读规则",
+              "stars": 4
+            },
+            {
+              "dimension": "简单阅读",
+              "description": "读懂配图短故事并答题",
+              "stars": 4
+            },
+            {
+              "dimension": "口语问答",
+              "description": "就熟悉话题做简短问答",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "二年级从听说转向简单阅读。",
+          "methods": [
+            "用拼读规则自主读词",
+            "读分级读物后做理解题",
+            "每周一次主题口语打卡",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 2-3",
+              "category": "分级读物",
+              "note": "情节递进"
+            },
+            {
+              "name": "《丽声拼读》",
+              "category": "教辅",
+              "note": "系统拼读巩固"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每日自主阅读 1 本分级",
+            "口语打卡录音频自查"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age8_9",
+      "expectation": "interest",
+      "summary": "8-9岁（三年级）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·三年级",
+          "abilities": [
+            {
+              "dimension": "习作起步",
+              "description": "写一段结构完整、内容具体的短文",
+              "stars": 2
+            },
+            {
+              "dimension": "段落结构",
+              "description": "写清'总-分'或'事情经过'",
+              "stars": 2
+            },
+            {
+              "dimension": "阅读理解",
+              "description": "能概括段意、体会关键词句",
+              "stars": 2
+            }
+          ],
+          "focus": "三年级作文起步，从写话跨入习作。",
+          "methods": [
+            "写前先列提纲再动笔",
+            "精读范文拆结构",
+            "每周一篇小练笔并互评",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "《小学生作文描写词典》",
+              "category": "工具书",
+              "note": "好词好句参考"
+            },
+            {
+              "name": "《同步作文》",
+              "category": "教辅",
+              "note": "单元习作指导"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "建立素材本记录生活小事",
+            "写完自己朗读找不通顺处"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·三年级",
+          "abilities": [
+            {
+              "dimension": "万以内计算",
+              "description": "正确进行万以内加减与一位数乘除",
+              "stars": 2
+            },
+            {
+              "dimension": "周长面积",
+              "description": "理解周长面积概念并会计算",
+              "stars": 2
+            },
+            {
+              "dimension": "逻辑题",
+              "description": "解决植树、间隔等典型应用题",
+              "stars": 2
+            }
+          ],
+          "focus": "计算量升级 + 几何入门 + 典型应用题。",
+          "methods": [
+            "每日计算限时训练防粗心",
+            "用方格纸拼图形理解面积",
+            "归纳典型题'解题模型'",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "三年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《小学奥数举一反三》",
+              "category": "教辅",
+              "note": "中年级思维训练"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "计算错一题补三题",
+            "典型应用题建错题本"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·三年级",
+          "abilities": [
+            {
+              "dimension": "句型语法",
+              "description": "掌握 be 动词、单复数等基础语法",
+              "stars": 2
+            },
+            {
+              "dimension": "短文阅读",
+              "description": "读懂 100 词左右短文并答题",
+              "stars": 2
+            },
+            {
+              "dimension": "口语表达",
+              "description": "就话题说 5-8 句连贯的话",
+              "stars": 2
+            }
+          ],
+          "focus": "三年级语法体系建立，读写并重。",
+          "methods": [
+            "用思维导图梳理语法点",
+            "精读短文划关键句",
+            "每周一个话题做口语演讲",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 4-5",
+              "category": "分级读物",
+              "note": "章节故事入门"
+            },
+            {
+              "name": "《全新英语听力》",
+              "category": "教辅",
+              "note": "听力阅读同步"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "语法错题归类复习",
+            "坚持每周口语小演讲"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age8_9",
+      "expectation": "standard",
+      "summary": "8-9岁（三年级）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·三年级",
+          "abilities": [
+            {
+              "dimension": "习作起步",
+              "description": "写一段结构完整、内容具体的短文",
+              "stars": 3
+            },
+            {
+              "dimension": "段落结构",
+              "description": "写清'总-分'或'事情经过'",
+              "stars": 3
+            },
+            {
+              "dimension": "阅读理解",
+              "description": "能概括段意、体会关键词句",
+              "stars": 3
+            }
+          ],
+          "focus": "三年级作文起步，从写话跨入习作。",
+          "methods": [
+            "写前先列提纲再动笔",
+            "精读范文拆结构",
+            "每周一篇小练笔并互评",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "《小学生作文描写词典》",
+              "category": "工具书",
+              "note": "好词好句参考"
+            },
+            {
+              "name": "《同步作文》",
+              "category": "教辅",
+              "note": "单元习作指导"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "建立素材本记录生活小事",
+            "写完自己朗读找不通顺处"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·三年级",
+          "abilities": [
+            {
+              "dimension": "万以内计算",
+              "description": "正确进行万以内加减与一位数乘除",
+              "stars": 3
+            },
+            {
+              "dimension": "周长面积",
+              "description": "理解周长面积概念并会计算",
+              "stars": 3
+            },
+            {
+              "dimension": "逻辑题",
+              "description": "解决植树、间隔等典型应用题",
+              "stars": 3
+            }
+          ],
+          "focus": "计算量升级 + 几何入门 + 典型应用题。",
+          "methods": [
+            "每日计算限时训练防粗心",
+            "用方格纸拼图形理解面积",
+            "归纳典型题'解题模型'",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "三年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《小学奥数举一反三》",
+              "category": "教辅",
+              "note": "中年级思维训练"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "计算错一题补三题",
+            "典型应用题建错题本"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·三年级",
+          "abilities": [
+            {
+              "dimension": "句型语法",
+              "description": "掌握 be 动词、单复数等基础语法",
+              "stars": 3
+            },
+            {
+              "dimension": "短文阅读",
+              "description": "读懂 100 词左右短文并答题",
+              "stars": 3
+            },
+            {
+              "dimension": "口语表达",
+              "description": "就话题说 5-8 句连贯的话",
+              "stars": 3
+            }
+          ],
+          "focus": "三年级语法体系建立，读写并重。",
+          "methods": [
+            "用思维导图梳理语法点",
+            "精读短文划关键句",
+            "每周一个话题做口语演讲",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 4-5",
+              "category": "分级读物",
+              "note": "章节故事入门"
+            },
+            {
+              "name": "《全新英语听力》",
+              "category": "教辅",
+              "note": "听力阅读同步"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "语法错题归类复习",
+            "坚持每周口语小演讲"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age8_9",
+      "expectation": "elite",
+      "summary": "8-9岁（三年级）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·三年级",
+          "abilities": [
+            {
+              "dimension": "习作起步",
+              "description": "写一段结构完整、内容具体的短文",
+              "stars": 4
+            },
+            {
+              "dimension": "段落结构",
+              "description": "写清'总-分'或'事情经过'",
+              "stars": 4
+            },
+            {
+              "dimension": "阅读理解",
+              "description": "能概括段意、体会关键词句",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "三年级作文起步，从写话跨入习作。",
+          "methods": [
+            "写前先列提纲再动笔",
+            "精读范文拆结构",
+            "每周一篇小练笔并互评",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "《小学生作文描写词典》",
+              "category": "工具书",
+              "note": "好词好句参考"
+            },
+            {
+              "name": "《同步作文》",
+              "category": "教辅",
+              "note": "单元习作指导"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "建立素材本记录生活小事",
+            "写完自己朗读找不通顺处"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·三年级",
+          "abilities": [
+            {
+              "dimension": "万以内计算",
+              "description": "正确进行万以内加减与一位数乘除",
+              "stars": 4
+            },
+            {
+              "dimension": "周长面积",
+              "description": "理解周长面积概念并会计算",
+              "stars": 4
+            },
+            {
+              "dimension": "逻辑题",
+              "description": "解决植树、间隔等典型应用题",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "计算量升级 + 几何入门 + 典型应用题。",
+          "methods": [
+            "每日计算限时训练防粗心",
+            "用方格纸拼图形理解面积",
+            "归纳典型题'解题模型'",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "三年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《小学奥数举一反三》",
+              "category": "教辅",
+              "note": "中年级思维训练"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "计算错一题补三题",
+            "典型应用题建错题本"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·三年级",
+          "abilities": [
+            {
+              "dimension": "句型语法",
+              "description": "掌握 be 动词、单复数等基础语法",
+              "stars": 4
+            },
+            {
+              "dimension": "短文阅读",
+              "description": "读懂 100 词左右短文并答题",
+              "stars": 4
+            },
+            {
+              "dimension": "口语表达",
+              "description": "就话题说 5-8 句连贯的话",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "三年级语法体系建立，读写并重。",
+          "methods": [
+            "用思维导图梳理语法点",
+            "精读短文划关键句",
+            "每周一个话题做口语演讲",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "牛津树 Level 4-5",
+              "category": "分级读物",
+              "note": "章节故事入门"
+            },
+            {
+              "name": "《全新英语听力》",
+              "category": "教辅",
+              "note": "听力阅读同步"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "语法错题归类复习",
+            "坚持每周口语小演讲"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age9_10",
+      "expectation": "interest",
+      "summary": "9-10岁（四年级）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·四年级",
+          "abilities": [
+            {
+              "dimension": "记叙文写作",
+              "description": "写清楚一件事，有细节有顺序",
+              "stars": 2
+            },
+            {
+              "dimension": "概括段意",
+              "description": "快速概括段落与文章大意",
+              "stars": 2
+            },
+            {
+              "dimension": "古诗文",
+              "description": "背诵并粗通中年级必背古诗文",
+              "stars": 2
+            }
+          ],
+          "focus": "四年级强化篇章写作与古诗文积累。",
+          "methods": [
+            "习作先画'故事山'再写",
+            "用'谁+做什么+结果'概括",
+            "古诗文结合注释读懂大意",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "《黑马阅读》",
+              "category": "教辅",
+              "note": "阅读理解专项"
+            },
+            {
+              "name": "《小学生小古文》",
+              "category": "诵读",
+              "note": "文言启蒙短篇"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每单元写一篇精品习作",
+            "每日一首古诗持续积累"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·四年级",
+          "abilities": [
+            {
+              "dimension": "大数运算",
+              "description": "掌握万以上数的读写与四则运算",
+              "stars": 2
+            },
+            {
+              "dimension": "小数初步",
+              "description": "理解小数意义并会加减",
+              "stars": 2
+            },
+            {
+              "dimension": "行程问题",
+              "description": "解决速度时间路程类应用题",
+              "stars": 2
+            }
+          ],
+          "focus": "数系扩展（大数、小数）+ 应用题模型化。",
+          "methods": [
+            "用数位顺序表理顺大数",
+            "用元角分理解小数",
+            "画线段图解行程题",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "四年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "拓展拔高"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "计算天天练防退步",
+            "行程题归纳三类基本模型"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·四年级",
+          "abilities": [
+            {
+              "dimension": "语法体系",
+              "description": "系统掌握时态与句型结构",
+              "stars": 2
+            },
+            {
+              "dimension": "阅读策略",
+              "description": "用略读寻读技巧做阅读理解",
+              "stars": 2
+            },
+            {
+              "dimension": "写作短句",
+              "description": "写 5-6 句结构正确的小短文",
+              "stars": 2
+            }
+          ],
+          "focus": "四年级语法闭环，读写能力并进。",
+          "methods": [
+            "建语法笔记本按模块复习",
+            "限时阅读练寻读速度",
+            "仿写范文句式练笔",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "RAZ D-E",
+              "category": "分级读物",
+              "note": "非虚构阅读拓展"
+            },
+            {
+              "name": "《全新英语读写》",
+              "category": "教辅",
+              "note": "读写结合"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每周仿写 1 篇小短文",
+            "阅读错题回到原文定位"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age9_10",
+      "expectation": "standard",
+      "summary": "9-10岁（四年级）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·四年级",
+          "abilities": [
+            {
+              "dimension": "记叙文写作",
+              "description": "写清楚一件事，有细节有顺序",
+              "stars": 3
+            },
+            {
+              "dimension": "概括段意",
+              "description": "快速概括段落与文章大意",
+              "stars": 3
+            },
+            {
+              "dimension": "古诗文",
+              "description": "背诵并粗通中年级必背古诗文",
+              "stars": 3
+            }
+          ],
+          "focus": "四年级强化篇章写作与古诗文积累。",
+          "methods": [
+            "习作先画'故事山'再写",
+            "用'谁+做什么+结果'概括",
+            "古诗文结合注释读懂大意",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "《黑马阅读》",
+              "category": "教辅",
+              "note": "阅读理解专项"
+            },
+            {
+              "name": "《小学生小古文》",
+              "category": "诵读",
+              "note": "文言启蒙短篇"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每单元写一篇精品习作",
+            "每日一首古诗持续积累"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·四年级",
+          "abilities": [
+            {
+              "dimension": "大数运算",
+              "description": "掌握万以上数的读写与四则运算",
+              "stars": 3
+            },
+            {
+              "dimension": "小数初步",
+              "description": "理解小数意义并会加减",
+              "stars": 3
+            },
+            {
+              "dimension": "行程问题",
+              "description": "解决速度时间路程类应用题",
+              "stars": 3
+            }
+          ],
+          "focus": "数系扩展（大数、小数）+ 应用题模型化。",
+          "methods": [
+            "用数位顺序表理顺大数",
+            "用元角分理解小数",
+            "画线段图解行程题",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "四年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "拓展拔高"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "计算天天练防退步",
+            "行程题归纳三类基本模型"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·四年级",
+          "abilities": [
+            {
+              "dimension": "语法体系",
+              "description": "系统掌握时态与句型结构",
+              "stars": 3
+            },
+            {
+              "dimension": "阅读策略",
+              "description": "用略读寻读技巧做阅读理解",
+              "stars": 3
+            },
+            {
+              "dimension": "写作短句",
+              "description": "写 5-6 句结构正确的小短文",
+              "stars": 3
+            }
+          ],
+          "focus": "四年级语法闭环，读写能力并进。",
+          "methods": [
+            "建语法笔记本按模块复习",
+            "限时阅读练寻读速度",
+            "仿写范文句式练笔",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "RAZ D-E",
+              "category": "分级读物",
+              "note": "非虚构阅读拓展"
+            },
+            {
+              "name": "《全新英语读写》",
+              "category": "教辅",
+              "note": "读写结合"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每周仿写 1 篇小短文",
+            "阅读错题回到原文定位"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age9_10",
+      "expectation": "elite",
+      "summary": "9-10岁（四年级）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·四年级",
+          "abilities": [
+            {
+              "dimension": "记叙文写作",
+              "description": "写清楚一件事，有细节有顺序",
+              "stars": 4
+            },
+            {
+              "dimension": "概括段意",
+              "description": "快速概括段落与文章大意",
+              "stars": 4
+            },
+            {
+              "dimension": "古诗文",
+              "description": "背诵并粗通中年级必背古诗文",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "四年级强化篇章写作与古诗文积累。",
+          "methods": [
+            "习作先画'故事山'再写",
+            "用'谁+做什么+结果'概括",
+            "古诗文结合注释读懂大意",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "《黑马阅读》",
+              "category": "教辅",
+              "note": "阅读理解专项"
+            },
+            {
+              "name": "《小学生小古文》",
+              "category": "诵读",
+              "note": "文言启蒙短篇"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每单元写一篇精品习作",
+            "每日一首古诗持续积累"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·四年级",
+          "abilities": [
+            {
+              "dimension": "大数运算",
+              "description": "掌握万以上数的读写与四则运算",
+              "stars": 4
+            },
+            {
+              "dimension": "小数初步",
+              "description": "理解小数意义并会加减",
+              "stars": 4
+            },
+            {
+              "dimension": "行程问题",
+              "description": "解决速度时间路程类应用题",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "数系扩展（大数、小数）+ 应用题模型化。",
+          "methods": [
+            "用数位顺序表理顺大数",
+            "用元角分理解小数",
+            "画线段图解行程题",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "四年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "拓展拔高"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "计算天天练防退步",
+            "行程题归纳三类基本模型"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·四年级",
+          "abilities": [
+            {
+              "dimension": "语法体系",
+              "description": "系统掌握时态与句型结构",
+              "stars": 4
+            },
+            {
+              "dimension": "阅读策略",
+              "description": "用略读寻读技巧做阅读理解",
+              "stars": 4
+            },
+            {
+              "dimension": "写作短句",
+              "description": "写 5-6 句结构正确的小短文",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "四年级语法闭环，读写能力并进。",
+          "methods": [
+            "建语法笔记本按模块复习",
+            "限时阅读练寻读速度",
+            "仿写范文句式练笔",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "RAZ D-E",
+              "category": "分级读物",
+              "note": "非虚构阅读拓展"
+            },
+            {
+              "name": "《全新英语读写》",
+              "category": "教辅",
+              "note": "读写结合"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每周仿写 1 篇小短文",
+            "阅读错题回到原文定位"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age10_11",
+      "expectation": "interest",
+      "summary": "10-11岁（五年级）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·五年级",
+          "abilities": [
+            {
+              "dimension": "篇章写作",
+              "description": "写出有中心、有详略的记叙文",
+              "stars": 2
+            },
+            {
+              "dimension": "修辞手法",
+              "description": "识别并运用比喻拟人等修辞",
+              "stars": 2
+            },
+            {
+              "dimension": "名著初读",
+              "description": "开始整本阅读少儿名著",
+              "stars": 2
+            }
+          ],
+          "focus": "五年级向'小升初'过渡，重篇章与整本书阅读。",
+          "methods": [
+            "习作列提纲定详略",
+            "好句摘抄并模仿仿写",
+            "用阅读单跟踪整本书",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "《草房子》《小王子》",
+              "category": "名著",
+              "note": "整本书阅读"
+            },
+            {
+              "name": "《一本·小学语文》",
+              "category": "教辅",
+              "note": "阅读写作综合"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每学期精读 2 本名著",
+            "建立个人佳句素材库"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·五年级",
+          "abilities": [
+            {
+              "dimension": "分数小数",
+              "description": "熟练分数小数互化与四则运算",
+              "stars": 2
+            },
+            {
+              "dimension": "方程初步",
+              "description": "用简易方程解应用题",
+              "stars": 2
+            },
+            {
+              "dimension": "几何综合",
+              "description": "掌握多边形面积与组合图形",
+              "stars": 2
+            }
+          ],
+          "focus": "五六年级核心：分数小数方程 + 几何。",
+          "methods": [
+            "用图形理解分数意义",
+            "找等量关系列方程",
+            "割补法求组合图形面积",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "五年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "几何与数论拓展"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "方程题先写等量关系",
+            "几何题必画图再求解"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·五年级",
+          "abilities": [
+            {
+              "dimension": "时态运用",
+              "description": "正确使用一般现在/过去/将来时",
+              "stars": 2
+            },
+            {
+              "dimension": "阅读理解",
+              "description": "读懂 200 词文章并推理判断",
+              "stars": 2
+            },
+            {
+              "dimension": "书面表达",
+              "description": "写 60 词左右结构完整短文",
+              "stars": 2
+            }
+          ],
+          "focus": "五年级强化时态与书面表达。",
+          "methods": [
+            "用时间轴梳理四大时态",
+            "阅读后做推理题训练",
+            "背诵范文框架再套用",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "RAZ F-G",
+              "category": "分级读物",
+              "note": "章节书过渡"
+            },
+            {
+              "name": "《小学英语写作》",
+              "category": "教辅",
+              "note": "话题写作模板"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每周写一篇命题短文",
+            "时态错题集中攻破"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age10_11",
+      "expectation": "standard",
+      "summary": "10-11岁（五年级）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·五年级",
+          "abilities": [
+            {
+              "dimension": "篇章写作",
+              "description": "写出有中心、有详略的记叙文",
+              "stars": 3
+            },
+            {
+              "dimension": "修辞手法",
+              "description": "识别并运用比喻拟人等修辞",
+              "stars": 3
+            },
+            {
+              "dimension": "名著初读",
+              "description": "开始整本阅读少儿名著",
+              "stars": 3
+            }
+          ],
+          "focus": "五年级向'小升初'过渡，重篇章与整本书阅读。",
+          "methods": [
+            "习作列提纲定详略",
+            "好句摘抄并模仿仿写",
+            "用阅读单跟踪整本书",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "《草房子》《小王子》",
+              "category": "名著",
+              "note": "整本书阅读"
+            },
+            {
+              "name": "《一本·小学语文》",
+              "category": "教辅",
+              "note": "阅读写作综合"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每学期精读 2 本名著",
+            "建立个人佳句素材库"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·五年级",
+          "abilities": [
+            {
+              "dimension": "分数小数",
+              "description": "熟练分数小数互化与四则运算",
+              "stars": 3
+            },
+            {
+              "dimension": "方程初步",
+              "description": "用简易方程解应用题",
+              "stars": 3
+            },
+            {
+              "dimension": "几何综合",
+              "description": "掌握多边形面积与组合图形",
+              "stars": 3
+            }
+          ],
+          "focus": "五六年级核心：分数小数方程 + 几何。",
+          "methods": [
+            "用图形理解分数意义",
+            "找等量关系列方程",
+            "割补法求组合图形面积",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "五年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "几何与数论拓展"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "方程题先写等量关系",
+            "几何题必画图再求解"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·五年级",
+          "abilities": [
+            {
+              "dimension": "时态运用",
+              "description": "正确使用一般现在/过去/将来时",
+              "stars": 3
+            },
+            {
+              "dimension": "阅读理解",
+              "description": "读懂 200 词文章并推理判断",
+              "stars": 3
+            },
+            {
+              "dimension": "书面表达",
+              "description": "写 60 词左右结构完整短文",
+              "stars": 3
+            }
+          ],
+          "focus": "五年级强化时态与书面表达。",
+          "methods": [
+            "用时间轴梳理四大时态",
+            "阅读后做推理题训练",
+            "背诵范文框架再套用",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "RAZ F-G",
+              "category": "分级读物",
+              "note": "章节书过渡"
+            },
+            {
+              "name": "《小学英语写作》",
+              "category": "教辅",
+              "note": "话题写作模板"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每周写一篇命题短文",
+            "时态错题集中攻破"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age10_11",
+      "expectation": "elite",
+      "summary": "10-11岁（五年级）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·五年级",
+          "abilities": [
+            {
+              "dimension": "篇章写作",
+              "description": "写出有中心、有详略的记叙文",
+              "stars": 4
+            },
+            {
+              "dimension": "修辞手法",
+              "description": "识别并运用比喻拟人等修辞",
+              "stars": 4
+            },
+            {
+              "dimension": "名著初读",
+              "description": "开始整本阅读少儿名著",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "五年级向'小升初'过渡，重篇章与整本书阅读。",
+          "methods": [
+            "习作列提纲定详略",
+            "好句摘抄并模仿仿写",
+            "用阅读单跟踪整本书",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "《草房子》《小王子》",
+              "category": "名著",
+              "note": "整本书阅读"
+            },
+            {
+              "name": "《一本·小学语文》",
+              "category": "教辅",
+              "note": "阅读写作综合"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每学期精读 2 本名著",
+            "建立个人佳句素材库"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·五年级",
+          "abilities": [
+            {
+              "dimension": "分数小数",
+              "description": "熟练分数小数互化与四则运算",
+              "stars": 4
+            },
+            {
+              "dimension": "方程初步",
+              "description": "用简易方程解应用题",
+              "stars": 4
+            },
+            {
+              "dimension": "几何综合",
+              "description": "掌握多边形面积与组合图形",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "五六年级核心：分数小数方程 + 几何。",
+          "methods": [
+            "用图形理解分数意义",
+            "找等量关系列方程",
+            "割补法求组合图形面积",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "五年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "几何与数论拓展"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "方程题先写等量关系",
+            "几何题必画图再求解"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·五年级",
+          "abilities": [
+            {
+              "dimension": "时态运用",
+              "description": "正确使用一般现在/过去/将来时",
+              "stars": 4
+            },
+            {
+              "dimension": "阅读理解",
+              "description": "读懂 200 词文章并推理判断",
+              "stars": 4
+            },
+            {
+              "dimension": "书面表达",
+              "description": "写 60 词左右结构完整短文",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "五年级强化时态与书面表达。",
+          "methods": [
+            "用时间轴梳理四大时态",
+            "阅读后做推理题训练",
+            "背诵范文框架再套用",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "RAZ F-G",
+              "category": "分级读物",
+              "note": "章节书过渡"
+            },
+            {
+              "name": "《小学英语写作》",
+              "category": "教辅",
+              "note": "话题写作模板"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每周写一篇命题短文",
+            "时态错题集中攻破"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age11_12",
+      "expectation": "interest",
+      "summary": "11-12岁（六年级）·启蒙兴趣阶段：以兴趣启蒙为主，保护学习内驱力。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "轻松启蒙·六年级",
+          "abilities": [
+            {
+              "dimension": "小升初备考",
+              "description": "掌握小升初阅读与习作考点",
+              "stars": 2
+            },
+            {
+              "dimension": "议论文雏形",
+              "description": "能写简单议论段表达观点",
+              "stars": 2
+            },
+            {
+              "dimension": "文言文",
+              "description": "粗通课内文言文与浅易课外篇",
+              "stars": 2
+            }
+          ],
+          "focus": "六年级收口：小升初实战 + 文言与议论启蒙。",
+          "methods": [
+            "研究真题归纳题型",
+            "每周一篇观点小练笔",
+            "文言逐句翻译练语感",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "《小升初语文真题》",
+              "category": "教辅",
+              "note": "考点实战"
+            },
+            {
+              "name": "《世说新语》少儿版",
+              "category": "文言",
+              "note": "文言入门"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "按真题模块查漏补缺",
+            "文言文每日一则翻译"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "轻松启蒙·六年级",
+          "abilities": [
+            {
+              "dimension": "比例百分数",
+              "description": "掌握比例、百分数及其应用",
+              "stars": 2
+            },
+            {
+              "dimension": "圆柱圆锥",
+              "description": "理解并计算圆柱圆锥表面积体积",
+              "stars": 2
+            },
+            {
+              "dimension": "综合应用",
+              "description": "解决较复杂的综合实践问题",
+              "stars": 2
+            }
+          ],
+          "focus": "六年级毕业：比例百分数 + 立体几何 + 综合。",
+          "methods": [
+            "用生活实例理解百分数",
+            "动手做圆柱圆锥模型",
+            "综合题拆解成小步骤",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "六年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "毕业迎战拔高"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "综合题先分步再合并",
+            "立体几何必画展开图"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "轻松启蒙·六年级",
+          "abilities": [
+            {
+              "dimension": "综合运用",
+              "description": "听说读写综合运用应对毕业考",
+              "stars": 2
+            },
+            {
+              "dimension": "听力提速",
+              "description": "适应正常语速的听力材料",
+              "stars": 2
+            },
+            {
+              "dimension": "写作结构",
+              "description": "写有条理、有衔接的短文",
+              "stars": 2
+            }
+          ],
+          "focus": "六年级收口：综合运用与应试能力。",
+          "methods": [
+            "限时模拟套题训练",
+            "精听+泛听结合提速",
+            "用连接词让作文有条理",
+            "以游戏化、无压力方式渗透，重兴趣轻成果"
+          ],
+          "resources": [
+            {
+              "name": "RAZ H-I",
+              "category": "分级读物",
+              "note": "章节书自主阅读"
+            },
+            {
+              "name": "《小升初英语真题》",
+              "category": "教辅",
+              "note": "考点实战"
+            },
+            {
+              "name": "亲子游戏素材",
+              "category": "游戏",
+              "note": "家庭可操作的低压力活动"
+            }
+          ],
+          "nextSteps": [
+            "每月一次全真模拟",
+            "写作背熟 5 类衔接框架"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age11_12",
+      "expectation": "standard",
+      "summary": "11-12岁（六年级）·校内达标阶段：对标校内要求，稳步达成合格水平。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "稳扎稳打·六年级",
+          "abilities": [
+            {
+              "dimension": "小升初备考",
+              "description": "掌握小升初阅读与习作考点",
+              "stars": 3
+            },
+            {
+              "dimension": "议论文雏形",
+              "description": "能写简单议论段表达观点",
+              "stars": 3
+            },
+            {
+              "dimension": "文言文",
+              "description": "粗通课内文言文与浅易课外篇",
+              "stars": 3
+            }
+          ],
+          "focus": "六年级收口：小升初实战 + 文言与议论启蒙。",
+          "methods": [
+            "研究真题归纳题型",
+            "每周一篇观点小练笔",
+            "文言逐句翻译练语感",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "《小升初语文真题》",
+              "category": "教辅",
+              "note": "考点实战"
+            },
+            {
+              "name": "《世说新语》少儿版",
+              "category": "文言",
+              "note": "文言入门"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "按真题模块查漏补缺",
+            "文言文每日一则翻译"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "稳扎稳打·六年级",
+          "abilities": [
+            {
+              "dimension": "比例百分数",
+              "description": "掌握比例、百分数及其应用",
+              "stars": 3
+            },
+            {
+              "dimension": "圆柱圆锥",
+              "description": "理解并计算圆柱圆锥表面积体积",
+              "stars": 3
+            },
+            {
+              "dimension": "综合应用",
+              "description": "解决较复杂的综合实践问题",
+              "stars": 3
+            }
+          ],
+          "focus": "六年级毕业：比例百分数 + 立体几何 + 综合。",
+          "methods": [
+            "用生活实例理解百分数",
+            "动手做圆柱圆锥模型",
+            "综合题拆解成小步骤",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "六年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "毕业迎战拔高"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "综合题先分步再合并",
+            "立体几何必画展开图"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "稳扎稳打·六年级",
+          "abilities": [
+            {
+              "dimension": "综合运用",
+              "description": "听说读写综合运用应对毕业考",
+              "stars": 3
+            },
+            {
+              "dimension": "听力提速",
+              "description": "适应正常语速的听力材料",
+              "stars": 3
+            },
+            {
+              "dimension": "写作结构",
+              "description": "写有条理、有衔接的短文",
+              "stars": 3
+            }
+          ],
+          "focus": "六年级收口：综合运用与应试能力。",
+          "methods": [
+            "限时模拟套题训练",
+            "精听+泛听结合提速",
+            "用连接词让作文有条理",
+            "紧跟课内进度同步练习，错题当日清"
+          ],
+          "resources": [
+            {
+              "name": "RAZ H-I",
+              "category": "分级读物",
+              "note": "章节书自主阅读"
+            },
+            {
+              "name": "《小升初英语真题》",
+              "category": "教辅",
+              "note": "考点实战"
+            },
+            {
+              "name": "课内配套练习册",
+              "category": "练习册",
+              "note": "与教材同步巩固"
+            }
+          ],
+          "nextSteps": [
+            "每月一次全真模拟",
+            "写作背熟 5 类衔接框架"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "age11_12",
+      "expectation": "elite",
+      "summary": "11-12岁（六年级）·培优拔尖阶段：在标准之上拔高，培养学科思维与竞争优势。",
+      "subjects": [
+        {
+          "subject": "语文",
+          "tagline": "培优拔尖·六年级",
+          "abilities": [
+            {
+              "dimension": "小升初备考",
+              "description": "掌握小升初阅读与习作考点",
+              "stars": 4
+            },
+            {
+              "dimension": "议论文雏形",
+              "description": "能写简单议论段表达观点",
+              "stars": 4
+            },
+            {
+              "dimension": "文言文",
+              "description": "粗通课内文言文与浅易课外篇",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做语文的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "六年级收口：小升初实战 + 文言与议论启蒙。",
+          "methods": [
+            "研究真题归纳题型",
+            "每周一篇观点小练笔",
+            "文言逐句翻译练语感",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "《小升初语文真题》",
+              "category": "教辅",
+              "note": "考点实战"
+            },
+            {
+              "name": "《世说新语》少儿版",
+              "category": "文言",
+              "note": "文言入门"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "按真题模块查漏补缺",
+            "文言文每日一则翻译"
+          ]
+        },
+        {
+          "subject": "数学",
+          "tagline": "培优拔尖·六年级",
+          "abilities": [
+            {
+              "dimension": "比例百分数",
+              "description": "掌握比例、百分数及其应用",
+              "stars": 4
+            },
+            {
+              "dimension": "圆柱圆锥",
+              "description": "理解并计算圆柱圆锥表面积体积",
+              "stars": 4
+            },
+            {
+              "dimension": "综合应用",
+              "description": "解决较复杂的综合实践问题",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做数学的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "六年级毕业：比例百分数 + 立体几何 + 综合。",
+          "methods": [
+            "用生活实例理解百分数",
+            "动手做圆柱圆锥模型",
+            "综合题拆解成小步骤",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "六年级数学教材",
+              "category": "教材",
+              "note": "课内同步"
+            },
+            {
+              "name": "《高思竞赛课本》",
+              "category": "教辅",
+              "note": "毕业迎战拔高"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "综合题先分步再合并",
+            "立体几何必画展开图"
+          ]
+        },
+        {
+          "subject": "外语",
+          "tagline": "培优拔尖·六年级",
+          "abilities": [
+            {
+              "dimension": "综合运用",
+              "description": "听说读写综合运用应对毕业考",
+              "stars": 4
+            },
+            {
+              "dimension": "听力提速",
+              "description": "适应正常语速的听力材料",
+              "stars": 4
+            },
+            {
+              "dimension": "写作结构",
+              "description": "写有条理、有衔接的短文",
+              "stars": 4
+            },
+            {
+              "dimension": "拓展进阶",
+              "description": "在校内之上做外语的拓展与超前学习，接触更有挑战的材料",
+              "stars": 5
+            }
+          ],
+          "focus": "六年级收口：综合运用与应试能力。",
+          "methods": [
+            "限时模拟套题训练",
+            "精听+泛听结合提速",
+            "用连接词让作文有条理",
+            "在课内之上做拓展与超前，接触竞赛/原版材料"
+          ],
+          "resources": [
+            {
+              "name": "RAZ H-I",
+              "category": "分级读物",
+              "note": "章节书自主阅读"
+            },
+            {
+              "name": "《小升初英语真题》",
+              "category": "教辅",
+              "note": "考点实战"
+            },
+            {
+              "name": "培优/原版读物",
+              "category": "课程",
+              "note": "拔高与视野拓展"
+            }
+          ],
+          "nextSteps": [
+            "每月一次全真模拟",
+            "写作背熟 5 类衔接框架"
+          ]
+        }
+      ]
+    }
+  ]
+}
