@@ -1,6 +1,6 @@
 {
-  "dataVersion": "2026.06.001",
-  "lastUpdated": "2026-06-21T14:00:00Z",
+  "dataVersion": "2026.07.001",
+  "lastUpdated": "2026-07-08T14:00:00Z",
   "files": {
     "roadmap_Guangzhou": { "version": 1 },
     "roadmap_Shenzhen": { "version": 1 },
@@ -15,6 +15,7 @@
     "meta_Shandong": { "version": 1 },
     "meta_Jiangsu": { "version": 1 },
     "quiz": { "version": 1 },
-    "cities": { "version": 1 }
+    "cities": { "version": 1 },
+    "subject_plans": { "version": 1 }
   }
 }
